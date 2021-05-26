@@ -1,0 +1,13 @@
+D:\Softuni\Stack and Queues - Exercise\bin\Debug\netcoreapp3.1\Stack and Queues - Exercise.exe
+D:\Softuni\Stack and Queues - Exercise\bin\Debug\netcoreapp3.1\Stack and Queues - Exercise.deps.json
+D:\Softuni\Stack and Queues - Exercise\bin\Debug\netcoreapp3.1\Stack and Queues - Exercise.runtimeconfig.json
+D:\Softuni\Stack and Queues - Exercise\bin\Debug\netcoreapp3.1\Stack and Queues - Exercise.runtimeconfig.dev.json
+D:\Softuni\Stack and Queues - Exercise\bin\Debug\netcoreapp3.1\Stack and Queues - Exercise.dll
+D:\Softuni\Stack and Queues - Exercise\bin\Debug\netcoreapp3.1\Stack and Queues - Exercise.pdb
+D:\Softuni\Stack and Queues - Exercise\obj\Debug\netcoreapp3.1\Stack and Queues - Exercise.csprojAssemblyReference.cache
+D:\Softuni\Stack and Queues - Exercise\obj\Debug\netcoreapp3.1\Stack and Queues - Exercise.AssemblyInfoInputs.cache
+D:\Softuni\Stack and Queues - Exercise\obj\Debug\netcoreapp3.1\Stack and Queues - Exercise.AssemblyInfo.cs
+D:\Softuni\Stack and Queues - Exercise\obj\Debug\netcoreapp3.1\Stack and Queues - Exercise.csproj.CoreCompileInputs.cache
+D:\Softuni\Stack and Queues - Exercise\obj\Debug\netcoreapp3.1\Stack and Queues - Exercise.dll
+D:\Softuni\Stack and Queues - Exercise\obj\Debug\netcoreapp3.1\Stack and Queues - Exercise.pdb
+D:\Softuni\Stack and Queues - Exercise\obj\Debug\netcoreapp3.1\Stack and Queues - Exercise.genruntimeconfig.cache

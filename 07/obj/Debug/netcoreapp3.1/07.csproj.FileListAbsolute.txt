@@ -1,0 +1,13 @@
+D:\Softuni\07\bin\Debug\netcoreapp3.1\07.exe
+D:\Softuni\07\bin\Debug\netcoreapp3.1\07.deps.json
+D:\Softuni\07\bin\Debug\netcoreapp3.1\07.runtimeconfig.json
+D:\Softuni\07\bin\Debug\netcoreapp3.1\07.runtimeconfig.dev.json
+D:\Softuni\07\bin\Debug\netcoreapp3.1\07.dll
+D:\Softuni\07\bin\Debug\netcoreapp3.1\07.pdb
+D:\Softuni\07\obj\Debug\netcoreapp3.1\07.AssemblyInfoInputs.cache
+D:\Softuni\07\obj\Debug\netcoreapp3.1\07.AssemblyInfo.cs
+D:\Softuni\07\obj\Debug\netcoreapp3.1\07.csproj.CoreCompileInputs.cache
+D:\Softuni\07\obj\Debug\netcoreapp3.1\07.dll
+D:\Softuni\07\obj\Debug\netcoreapp3.1\07.pdb
+D:\Softuni\07\obj\Debug\netcoreapp3.1\07.genruntimeconfig.cache
+D:\Softuni\07\obj\Debug\netcoreapp3.1\07.csprojAssemblyReference.cache
